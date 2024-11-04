@@ -1,0 +1,14 @@
+[project]
+name = "vision_project"
+description = "This is my vision_project for Computer Vision Class as SahmYook University"
+
+
+dependencies = [
+    "opencv-python==4.10.0.84",
+    "numpy==2.1.2",
+    "matplotlib-inline==0.1.7",
+    "pyinstaller==6.11.0",
+    "PyQt6==6.7.1",
+]
+
+requires-python = ">=3.10"
