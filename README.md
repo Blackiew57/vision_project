@@ -12,7 +12,7 @@ This project was developed as part of a Computer Vision class at SahmYook Univer
 - **Python** : 3.10 or higher
 - **OpenCV**: For image processing functions.
 - **PyInstaller**: Package the project into an executable file (.exe) for Windows.
-- **Custom Icons**: The .exe file icon was customized with Dogecoin and Shiba Inu coin icons.
+- **Custom Icons**: Each .exe file icon was customized with Dogecoin and Shiba Inu coin icons.
 - **For more** : please read requirements.txt
 
 ## Running the Project
