@@ -7,9 +7,9 @@ dist/
 .venv/
 
 
-.ico
-.png
-.spec
+*.ico
+*.png
+*.spec
 
 # C extensions
 *.so
